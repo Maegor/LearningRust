@@ -1,7 +1,7 @@
 [package]
 name = "guessin_game"
 version = "0.1.0"
-authors = ["molero"]
+authors = ["Maegor <josemariamolero@yahoo.es>"]
 edition = "2018"
 
 [dependencies]
